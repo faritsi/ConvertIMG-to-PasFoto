@@ -18,7 +18,7 @@
 ## ⚙️ Instalasi
 
 ```bash
-git clone https://github.com/username/ConvertIMG-to-PasFoto.git
+git clone https://github.com/faritsi/ConvertIMG-to-PasFoto.git
 cd ConvertIMG-to-PasFoto
 pip install -r requirements.txt
 ```
